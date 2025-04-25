@@ -40,7 +40,7 @@ This project is a Node/Express application that features a navigation bar built 
 4. Visit `http://localhost:3000` in your browser.
 
 ## Deployment
-This project is deployed on Glitch: [https://your-glitch-project.glitch.me](https://your-glitch-project.glitch.me)
+This project is deployed on Glitch: [https://pond-imported-notify.glitch.me/](https://pond-imported-notify.glitch.me/)
 
 ## GitHub Repository
 You can view the full codebase here: [https://github.com/zoebowe/express-navbar](https://github.com/zoebowe/express-navbar)
