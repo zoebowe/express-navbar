@@ -27,7 +27,7 @@ This project is a Node/Express application that features a navigation bar built 
 1. Clone the repository:
    ```bash
    git clone https://github.com/zoebowe/express-navbar.git
-   cd express-navbar-app
+   cd express-navbar
    ```
 2. Install dependencies:
    ```bash
